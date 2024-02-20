@@ -1,0 +1,2 @@
+*{margin:0;padding:0}.block{display:flex;flex-wrap:wrap;justify-content:space-around}.item{align-items:center;border:1px solid #000;border-radius:6px;flex-direction:column;gap:20px;height:200px;justify-content:center;width:250px}.item,.mod{display:flex}.mod{gap:10px;height:30px}.btn{align-items:center;background-color:#fff;border:.3px solid #dad6d6;border-radius:6px;display:flex;justify-content:center;padding:8px}.btn:active{background-color:#dad6d6}
+/*# sourceMappingURL=main.fb751318.css.map*/
